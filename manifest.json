@@ -9,6 +9,6 @@
 {
         "default_icon": "logo.png",
         "default_title": "songs",
-        "default_popup": "songs-popup.html"
+        "default_popup": "index.html"
     }
 }
